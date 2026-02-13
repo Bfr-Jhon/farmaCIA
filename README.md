@@ -27,6 +27,7 @@ O projeto tem como objetivo organizar produtos, facilitar operações básicas e
 ## 📂 Estrutura do Projeto
 
 farmaCIA/
+
 │
 
 ├── src/
@@ -34,6 +35,7 @@ farmaCIA/
 │
 ├── model → Classes e entidades do sistema
 │
+
 ├── controller → Regras de negócio
 │
 
