@@ -28,9 +28,15 @@ O projeto tem como objetivo organizar produtos, facilitar operações básicas e
 
 farmaCIA/
 │
+
 ├── src/
-│ ├── model → Classes e entidades do sistema
-│ ├── controller → Regras de negócio
-│ └── menu → Interface com o usuário
+
+│
+├── model → Classes e entidades do sistema
+│
+├── controller → Regras de negócio
+│
+
+└── menu → Interface com o usuário
 │
 └── README.md
